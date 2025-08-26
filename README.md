@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Nathan</h1>
-🔭 I’m currently working on **Network protocols**
+🔭 I’m currently working on Network protocols
 
 🌱 I’m currently learning **Reverse Engineering**
 
 💬 Ask me about **Python**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
